@@ -1,1 +1,1 @@
-# notes-cs
+# Computer Science Knowledge
