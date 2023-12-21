@@ -1,1 +1,1 @@
-# Computer Science Knowledge
+# Computer Science Fundamental Knowledge
